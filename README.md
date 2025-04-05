@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumit-1325" alt="sumit-1325" /></a> </p>
 
-- 🔭 I’m currently working on [NODE JS]
+- 🔭 I’m currently working on [NODE JS](https://github.com/Sumit-1325/Youtube_Backend/)
 
 - 🌱 I’m currently learning **Ml || Deep Learning || Web Dev || NODE JS || REACT JS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sumit-1325/Youtube_Backend/commits?author=Sumit-1325](https://github.com/Sumit-1325)
+- 👨‍💻 All of my projects are available at [https://github.com/Sumit-1325](https://github.com/Sumit-1325)
 
 - 💬 Ask me about **React || ML || DEEP LEARNING NODE**
 
