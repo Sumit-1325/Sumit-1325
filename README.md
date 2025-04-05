@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Ml || Deep Learning || Web Dev || NODE JS || REACT JS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sumit-1325/Youtube_Backend/commits?author=Sumit-1325](https://github.com/Sumit-1325/Youtube_Backend/commits?author=Sumit-1325)
+- 👨‍💻 All of my projects are available at [https://github.com/Sumit-1325/Youtube_Backend/commits?author=Sumit-1325](https://github.com/Sumit-1325)
 
 - 💬 Ask me about **React || ML || DEEP LEARNING NODE**
 
