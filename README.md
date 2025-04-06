@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sumit-1325](https://github.com/Sumit-1325)
 
-- 💬 Ask me about **React || ML || DEEP LEARNING NODE**
+- 💬 Ask me about **React || ML || DEEP LEARNING || NODE**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
